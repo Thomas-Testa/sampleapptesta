@@ -1,0 +1,5 @@
+Testa:
+  email: tjt@maily.com
+  username: Thomas Testa
+  password_digest: <%= User.digest('password') %>
+  mobile: 0408294568
